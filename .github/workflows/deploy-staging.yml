@@ -12,6 +12,7 @@ env:
   DOCKER_IMAGE_NAME: kenfaw-azure-ttt
   AZURE_WEBAPP_NAME: kenfaw-ttt-app
   ###############################################
+  # edited #
 
 jobs:
   build:
